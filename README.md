@@ -24,6 +24,7 @@
 * Hungary
 
 ## WordPress - Plugin Dev skills
+
 ![Static Badge](https://img.shields.io/badge/CrocoBlock-pskills?style=flat&logoColor=white&color=%230dc167)
 ![Static Badge](https://img.shields.io/badge/JetFormBuilder-pskills?style=flat&logoColor=white&color=%234272f9)
 ![Static Badge](https://img.shields.io/badge/Fluent-pskills?style=flat&logoColor=white&color=%237742e6)
@@ -35,7 +36,10 @@
 ![Static Badge](https://img.shields.io/badge/TutorLMS-pskills?style=flat&logoColor=white&color=%230049f8)
 ![Static Badge](https://img.shields.io/badge/WPRocket-pskills?style=flat&logoColor=white&color=%23f56f46)
 
-
+## Other
 
 > [!TIP]
 > Check my all Gist codes here: [My Gists](https://gist.github.com/Lonsdale201)
+
+> [!TIP]
+> Check my music created with suno: [Youtube](https://www.youtube.com/@verseaizen%C3%A9k)
