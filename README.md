@@ -41,5 +41,5 @@
 > [!TIP]
 > Check my all Gist codes here: [My Gists](https://gist.github.com/Lonsdale201)
 
-> [!TIP]
+> [!NOTE]
 > Check my music created with suno: [Youtube](https://www.youtube.com/@verseaizen%C3%A9k)
