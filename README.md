@@ -16,6 +16,7 @@
 ![Static Badge](https://img.shields.io/badge/Discord-tech?style=plastic&logo=discord&logoColor=white&labelColor=%235865F2&color=%235865F2)
 ![Static Badge](https://img.shields.io/badge/Github-tech?style=plastic&logo=github&logoColor=white&labelColor=%23181717&color=%23181717)
 ![Static Badge](https://img.shields.io/badge/OpenAI-tech?style=plastic&logo=openai&logoColor=white&labelColor=%23412991&color=%23412991)
+![Static Badge](https://img.shields.io/badge/Suno-tech?style=plastic&logo=suno&logoColor=white&labelColor=%23000000&color=%23000000)
 
 ## Languages
 
@@ -32,11 +33,9 @@
 ![Static Badge](https://img.shields.io/badge/Elementor-pskills?style=flat&logoColor=white&color=%23ff7be5)
 ![Static Badge](https://img.shields.io/badge/LearnDash-pskills?style=flat&logoColor=white&color=%23235af3)
 ![Static Badge](https://img.shields.io/badge/TutorLMS-pskills?style=flat&logoColor=white&color=%230049f8)
+![Static Badge](https://img.shields.io/badge/WPRocket-pskills?style=flat&logoColor=white&color=%23f56f46)
 
 
 
-
-<details>
-  <summary>WordPress - Details</summary>
-
-</details>
+> [!TIP]
+> Check my all Gist codes here: [My Gists](https://gist.github.com/Lonsdale201)
