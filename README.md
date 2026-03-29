@@ -7,6 +7,11 @@
 ![Static Badge](https://img.shields.io/badge/jquery-skill?style=for-the-badge&logo=jquery&logoColor=white&color=%230769AD)
 ![Static Badge](https://img.shields.io/badge/python-skill?style=for-the-badge&logo=python&logoColor=white&color=%233776AB)
 ![Static Badge](https://img.shields.io/badge/webgl-skill?style=for-the-badge&logo=webgl&logoColor=white&color=%23990000)
+![Static Badge](https://img.shields.io/badge/node.js-skill?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%23339933)
+![Static Badge](https://img.shields.io/badge/typescript-skill?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6)
+![Static Badge](https://img.shields.io/badge/react-skill?style=for-the-badge&logo=react&logoColor=white&color=%2361DAFB)
+![Static Badge](https://img.shields.io/badge/rust-skill?style=for-the-badge&logo=rust&logoColor=white&color=%23000000)
+![Static Badge](https://img.shields.io/badge/bun-skill?style=for-the-badge&logo=bun&logoColor=white&color=%23000000)
 
 ## Tech
 
@@ -16,12 +21,13 @@
 ![Static Badge](https://img.shields.io/badge/Discord-tech?style=plastic&logo=discord&logoColor=white&labelColor=%235865F2&color=%235865F2)
 ![Static Badge](https://img.shields.io/badge/Github-tech?style=plastic&logo=github&logoColor=white&labelColor=%23181717&color=%23181717)
 ![Static Badge](https://img.shields.io/badge/OpenAI-tech?style=plastic&logo=openai&logoColor=white&labelColor=%23412991&color=%23412991)
-![Static Badge](https://img.shields.io/badge/Suno-tech?style=plastic&logo=suno&logoColor=white&labelColor=%23000000&color=%23000000)
+![Static Badge](https://img.shields.io/badge/Expo-tech?style=plastic&logo=expo&logoColor=white&labelColor=%23000020&color=%23000020)
+![Static Badge](https://img.shields.io/badge/Claude-tech?style=plastic&logo=anthropic&logoColor=white&labelColor=%23191919&color=%23191919)
 
 ## Languages
 
-* English
-* Hungary
+- English
+- Hungary
 
 ## WordPress - Plugin Dev skills
 
@@ -36,10 +42,19 @@
 ![Static Badge](https://img.shields.io/badge/TutorLMS-pskills?style=flat&logoColor=white&color=%230049f8)
 ![Static Badge](https://img.shields.io/badge/WPRocket-pskills?style=flat&logoColor=white&color=%23f56f46)
 
+## Projects
+
+### [Better Route](https://github.com/Lonsdale201/better-route)
+Efficient policy-driven solution for WordPress REST API routing and endpoint management.
+- [Documentation](https://github.com/Lonsdale201/better-route-docs)
+
+### [Project Visual Planner](https://github.com/Lonsdale201/project-visual-planner)
+Plan projects visually using ReactFlow. Map out architecture, dependencies, and workflows for easier presentation and oversight.
+
+### [ui-canon](https://github.com/Lonsdale201/ui-canon)
+Headless UI canonicalizer and drift detector. Extracts canonical, AI-consumable component representations from generated (Stitch, etc.) Tailwind-based HTML screens. Detects design inconsistencies, normalizes tokens, and produces clean input for AI coding assistants.
+
 ## Other
 
 > [!TIP]
 > Check my all Gist codes here: [My Gists](https://gist.github.com/Lonsdale201)
-
-> [!NOTE]
-> Check my music created with suno: [Youtube](https://www.youtube.com/@verseaizen%C3%A9k)
