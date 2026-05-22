@@ -12,6 +12,8 @@
 ![Static Badge](https://img.shields.io/badge/react-skill?style=for-the-badge&logo=react&logoColor=white&color=%2361DAFB)
 ![Static Badge](https://img.shields.io/badge/rust-skill?style=for-the-badge&logo=rust&logoColor=white&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/bun-skill?style=for-the-badge&logo=bun&logoColor=white&color=%23000000)
+![Static Badge](https://img.shields.io/badge/next.js-skill?style=for-the-badge&logo=nextdotjs&logoColor=white&color=000000)
+![Static Badge](https://img.shields.io/badge/rust-skill?style=for-the-badge&logo=rust&logoColor=white&color=%23000000)
 
 ## Tech
 
