@@ -46,7 +46,8 @@
 
 ### [Better Route](https://github.com/Lonsdale201/better-route)
 Efficient policy-driven solution for WordPress REST API routing and endpoint management.
-- [Documentation]([https://github.com/Lonsdale201/better-route-docs](https://lonsdale201.github.io/better-docs/docs/better-route/getting-started/installation/))
+
+- [Documentation](https://lonsdale201.github.io/better-docs/docs/better-route/getting-started/installation/)
 
 ### [Project Visual Planner](https://github.com/Lonsdale201/project-visual-planner)
 Plan projects visually using ReactFlow. Map out architecture, dependencies, and workflows for easier presentation and oversight.
