@@ -30,19 +30,6 @@
 - English
 - Hungary
 
-## WordPress - Plugin Dev skills
-
-![Static Badge](https://img.shields.io/badge/CrocoBlock-pskills?style=flat&logoColor=white&color=%230dc167)
-![Static Badge](https://img.shields.io/badge/JetFormBuilder-pskills?style=flat&logoColor=white&color=%234272f9)
-![Static Badge](https://img.shields.io/badge/Fluent-pskills?style=flat&logoColor=white&color=%237742e6)
-![Static Badge](https://img.shields.io/badge/Woo-pskills?style=flat&logoColor=white&color=%237f54b3)
-![Static Badge](https://img.shields.io/badge/WooSubscriptions-pskills?style=flat&logoColor=white&color=%237f54b3)
-![Static Badge](https://img.shields.io/badge/WooMembership-pskills?style=flat&logoColor=white&color=%237f54b3)
-![Static Badge](https://img.shields.io/badge/Elementor-pskills?style=flat&logoColor=white&color=%23ff7be5)
-![Static Badge](https://img.shields.io/badge/LearnDash-pskills?style=flat&logoColor=white&color=%23235af3)
-![Static Badge](https://img.shields.io/badge/TutorLMS-pskills?style=flat&logoColor=white&color=%230049f8)
-![Static Badge](https://img.shields.io/badge/WPRocket-pskills?style=flat&logoColor=white&color=%23f56f46)
-
 ## Projects
 
 ### [Better Route](https://github.com/Lonsdale201/better-route)
